@@ -2,4 +2,5 @@ Manifest
 README.markdown
 README.txt
 Rakefile
-lib/hijri.rb
+hijri_gem.gemspec
+lib/hijri_gem.rb
